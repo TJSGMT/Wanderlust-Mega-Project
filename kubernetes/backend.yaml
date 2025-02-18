@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: TJSGMT/wanderlust-backend-beta:v2.1
+          image: TJSGMT/wanderlust-backend-beta:v21
           ports:
             - containerPort: 8080
 ---
